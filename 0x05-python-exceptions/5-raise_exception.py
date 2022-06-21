@@ -2,4 +2,4 @@
 # 5-raise_exception.py
 def raise_exception():
     """Raise a TypeError exception."""
-    raise TypeErro
+    raise TypeError
